@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 aiogram = "*"
+sqlalchemy = "*"
+mysql-connector-python = "*"
+dbapi = "*"
 
 [dev-packages]
 
